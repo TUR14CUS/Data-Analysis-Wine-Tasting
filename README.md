@@ -9,7 +9,7 @@ To get started with the analysis, follow these steps:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/TUR14CUS/wine-tasting-data-analysis.git
-   cd wine-tasting-analysis
+   cd wine-tasting-data-analysis
    ```
 
 2. **Download the Dataset:**
